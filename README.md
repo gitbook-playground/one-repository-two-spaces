@@ -1,7 +1,4 @@
 # Initial page
 
-This is branch alpha.
+This is branch beta.
 
-This is a quick change.
-
-This another change.
